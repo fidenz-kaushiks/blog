@@ -120,7 +120,7 @@ if Object.const_defined?("Rich")
     # config.paginates_per = 34
 
     #config.use_active_storage = true
-    config.use_active_storage = true
+    config.use_active_storage = false
   end
 
   Rich.insert
