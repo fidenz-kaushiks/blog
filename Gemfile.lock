@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/fidenz-kaushiks/rich.git
-  revision: 04bb16f7029ab6eee35719f1d663ba3ab68ec948
+  revision: 1e9fd938805a2b4289ee0887e7ec78d966c63bf6
   branch: feature/active-storage
   specs:
     rich (1.4.8)
@@ -170,7 +170,7 @@ GEM
     msgpack (1.3.3)
     multi_json (1.14.1)
     nio4r (2.5.2)
-    nokogiri (1.10.9)
+    nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     orm_adapter (0.5.0)
     paperclip (6.1.0)
@@ -282,7 +282,7 @@ GEM
     websocket-extensions (0.1.5)
     xpath (3.2.0)
       nokogiri (~> 1.8)
-    zeitwerk (2.3.0)
+    zeitwerk (2.3.1)
 
 PLATFORMS
   ruby
