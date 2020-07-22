@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/fidenz-kaushiks/rich.git
-  revision: 44b439d0453ed514cf1dd3716851f3ff2530d9a7
+  revision: 04682ffb650581afaf48fd45260f26d05f963d7f
   branch: feature/active-storage
   specs:
     rich (1.4.8)
@@ -120,7 +120,7 @@ GEM
     has_scope (0.7.2)
       actionpack (>= 4.1)
       activesupport (>= 4.1)
-    i18n (1.8.3)
+    i18n (1.8.4)
       concurrent-ruby (~> 1.0)
     image_processing (1.11.0)
       mini_magick (>= 4.9.5, < 5)
