@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/fidenz-kaushiks/rich.git
-  revision: 04682ffb650581afaf48fd45260f26d05f963d7f
+  revision: 50a91cc2b1c948d72a8598db1eb7049ece6a014d
   branch: feature/active-storage
   specs:
     rich (1.4.8)
